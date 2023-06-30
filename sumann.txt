@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>formating tags</title>
+</head>
+<body bg color="pink">
+<h1 algin="center">Baa,baa black sheep</h1>
+<p>
+<B>Baa,baa,black sheep</b><br>
+<i>have any wool</i><br>
+<u>yes sir,yes sir</u><br>
+<strong>three bags full</strong><br><br>
+<small>one for the master</small><br>
+<em>one for the dame</em><br>
+and one for the<mark>little boy</mark><br>
+who lives down the<del>line</del><ins>line</ins><br><br>
+</per>Baa,baa,black sheep
+have you any wool?
+yes,sir,yes,sir
+three bags full</per>
+</p>
+</body>
+</html>
